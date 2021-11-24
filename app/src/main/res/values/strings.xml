@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NumberConverter</string>
+    <string name="result">Name</string>
+    <string name="result_symbol">Result:</string>
+    <string name="Convert_symbol">Convert:</string>
+    <string name="enterNumber">Name</string>
+    <string name="from_base">From base:</string>
+    <string name="to_base">to base:</string>
+    <string name="convert_button">Convert</string>
+</resources>
